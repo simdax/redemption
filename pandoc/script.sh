@@ -1,28 +1,35 @@
-cd ../blabla
-for i in *; do
-    pandoc -s -S -f markdown -t html $i/[0-9]*.md  --template=../pandoc/miniTemplate.html -o ../pandoc/tmp/$i.html\
-           --variable title=$i
-    # insert a "next" item
-    next=$(( $i + 1 ))
-    prev=$(( $i - 1 ))
-    strN="<a href=\"#${next}\">next</a>"
-    strP="<a href=\"#${prev}\">previous</a><p><\p>"
-    #image=    "<span class=\"image main\"><img src=\"images\pic01.jpg\" alt="" /></span>"
-    #insert
-    #previous
-    sed -i "2 a ${strP}" ../pandoc/tmp/$i.html
-    #image
-    # if [ -f file]
-    # then
-    #     sed -i "2 a ${image}" ../pandoc/tmp/$i.html
-    # fi
-    #next
-    sed -i "$ i ${strN}" ../pandoc/tmp/$i.html
+rm tmp/*
 
+cd ../blabla/0
+files=( * )
+
+for i in {0..3}; do
+    pandoc -s -S -f markdown -t html ${files[$i]}  --template=../../pandoc/miniTemplate.html -o ../../pandoc/tmp/$i.html\
+           --variable id=$i\
+           --variable title=${files[$i]}
+
+    if [ $i -eq 0 ]
+    then
+        strN="<a href=\"#1\">next</a>"
+        sed -i "$ i ${strN}" ../../pandoc/tmp/$i.html
+    elif [ $i -eq 4 ]
+    then
+        strP="<a href=\"#3\">previous</a>"
+        sed -i "2 a ${strP}" ../../pandoc/tmp/$i.html
+    else
+        c=$(($i+1))
+        cc=$(($i-1))
+        strN="<a href=\"#${c}\">next</a>"
+        strP="<a href=\"#${cc}\">previous</a>"
+        sed -i "2 a ${strP}" ../../pandoc/tmp/$i.html
+        sed -i "$ i ${strN}" ../../pandoc/tmp/$i.html
+    fi        
+
+    
 done
 
 
-cd ../pandoc
+cd ../../pandoc
 # put in the template
 
 cat tmp/* > caca
