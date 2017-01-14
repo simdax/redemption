@@ -58,13 +58,13 @@ jamais. Pour lui-même qui n'en a entendu que par bribes les récits les
 plus baroques, il n'aura retenu rien d'autre que nul qui n'y a fait
 voyage ne pourra deviner en quoi consiste la religion qui est le
 ciment démocratique de la cité et que nul être vivant capable de faire
-des contes n'aura jamais la parole suffisante pour décrire ce qu'il y
+des contes n'aura jamais la langue assez longue pour décrire ce qu'il y
 aura vu.
 
-Faut-il pour autant se taire, et abandonner à jamais l'espoir
-caressant de tenir dans ses bras une partie, un quartier, une
-expression, un paragraphe, une couleur si infime qu'elle soit, de la
-Cité d'Ambreville? 
+<!-- Faut-il pour autant se taire, et abandonner à jamais l'espoir -->
+<!-- caressant de tenir dans ses bras une partie, un quartier, une -->
+<!-- expression, un paragraphe, une couleur si infime qu'elle soit, de la -->
+<!-- Cité d'Ambreville?  -->
 
 Pour parvenir jusque là-bas, il faudra nécessairement faire un très
 long voyage. Quelqu'en soit le point de départ. Cette ville a la

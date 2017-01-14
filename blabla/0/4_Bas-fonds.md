@@ -81,22 +81,6 @@ bas-fonds, dans ces mondes parallèles qu'ils frôlaient sans le savoir
 durant son enfance ? Ne peut-il pas trouver une issue au labyrinthe de
 valeurs ésotériques que ces gens lui ont montré en étant eux-mêmes ?
 
-Anoy avait vécu dans un isolement terrible depuis trois mois
-maintenant. L'accumulation de rencontres de ces derniers temps avaient
-fini de le dégoûter du commerce social. Doit-il regretter cette vie
-privée de sens et de saveur ?  C'est la question qui liquéfie son
-crâne et le fait bouillir d'une colère interdite. L'esprit en purée,
-il se caresse avec rage le front pour soutenir cette pensée
-intolérable. Les quelques passants qu'il rencontre n'ont plus l'air de
-le remarquer, ni de se soucier de lui. La nuit avançant elle aussi
-d'un pas certain, les passants s'égrainaient de plus en plus le long
-des rues. Plus il emprunte de rues nouvelles et plus l'odeur
-s'estompte, plus les gens l'évitent. Cette bouillie, son cerveau,
-trouve de plus en plus de place pour s'exprimer et en certains
-endroits, elle le pique.  Elle est la pointe, si aiguisée qu'elle en
-est invisible, d'une épée qui le transperce dans tous les endroits
-secrets du corps, et que tout le monde feint de ne pas voir.
-
 
 
 

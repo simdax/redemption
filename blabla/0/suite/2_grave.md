@@ -1,3 +1,20 @@
+Anoy avait vécu dans un isolement terrible depuis trois mois
+maintenant. L'accumulation de rencontres de ces derniers temps avaient
+fini de le dégoûter du commerce social. Doit-il regretter cette vie
+privée de sens et de saveur ?  C'est la question qui liquéfie son
+crâne et le fait bouillir d'une colère interdite. L'esprit en purée,
+il se caresse avec rage le front pour soutenir cette pensée
+intolérable. Les quelques passants qu'il rencontre n'ont plus l'air de
+le remarquer, ni de se soucier de lui. La nuit avançant elle aussi
+d'un pas certain, les passants s'égrainaient de plus en plus le long
+des rues. Plus il emprunte de rues nouvelles et plus l'odeur
+s'estompte, plus les gens l'évitent. Cette bouillie, son cerveau,
+trouve de plus en plus de place pour s'exprimer et en certains
+endroits, elle le pique.  Elle est la pointe, si aiguisée qu'elle en
+est invisible, d'une épée qui le transperce dans tous les endroits
+secrets du corps, et que tout le monde feint de ne pas voir.
+
+
 La lune dardait plus fort ses rayons qu'une épaisse couverture de
 nuages filtre. Pourtant, la majorité de la lumière provient non plus
 d'en-haut, mais d'ici-bas. Le toit céleste se rapproche et forme un
@@ -27,14 +44,14 @@ rondes qu'il tente de quitter aussitôt, en vain. La langue s'est
 dissoute en musique, et le sens une pure émanation d'harmonie. Les
 rues
 
-Un badaud lui tend
-une choppe d'un breuvage acide et sucré, dont seuls les deux premières
-gorgées atteignent son gosier avant de finir dans la main d'un singe
-qui sautillent d'épaule en épaule. Même ses grognements, ses demandes répétés pour se frayer un
-chemin, sont intégrés aussitôt dans un nouveau jeu dont tous se
-réjouissent. Son accent est imité, devient aussitôt un nouveau mode
-vocale, son accoutrement qu'autant les hommes que les femmes tentent
-de lui arracher, une nouvelle mode vestimentaire.
+Un badaud lui tend une choppe d'un breuvage acide et sucré, dont seuls
+les deux premières gorgées atteignent son gosier avant de finir dans
+la main d'un singe qui sautillent d'épaule en épaule. Même ses
+grognements, ses demandes répétés pour se frayer un chemin, sont
+intégrés aussitôt dans un nouveau jeu dont tous se réjouissent. Son
+accent est imité, devient aussitôt un nouveau mode vocale, son
+accoutrement qu'autant les hommes que les femmes tentent de lui
+arracher, une nouvelle mode vestimentaire.
 
 Dans son étalement, son gaspillage
 constant d'énergie, l'individu dissout ne peut s'inscrire qu'en

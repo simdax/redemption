@@ -9,11 +9,11 @@ Avant de leur servir les plus saisonniers, les plus parfumés des
 entremets, les poissons les plus frétillants, les viandes les plus
 sucrés, les boissons les plus sanguines et les vins les plus
 enivrants, un cœur digne de ce nom lit une sélection de poèmes rimant
-par paires, sonnant par tierces et qu'on a enrichi par toutes les
+par paires, sonnant par tierces et enrichi de toutes les
 classes d'homothéleutes existant entre le néant et les derniers
-nombres trouvés par l'homme *deductio et inductio*.
+des nombres <!-- trouvés par l'homme *deductio et inductio*. -->
 
-Ainsi débute toute histoire. Le cœur joyeux, il bat par lui-même, ou
+Ainsi débute toute histoire. Le cœur joyeux, battant par lui-même, ou
 mieux, par l'intermédiaire d'un hôte qu'il aura valorisé en vantant
 son teint de biche ou son épée d'acier, il scande au rythme de
 musiques vibrant dans des rapports inférieurs à cinq et aux sons de
@@ -42,12 +42,13 @@ beauté et de l'harmonie.
 La lutte sera acharnée, car les invités proviennent de provinces
 abruptes ou adoucies. Peu importe, personne ne souhaite nullement se
 laisser centraliser par une sorte de pouvoir autre que celui de
-Vérité, fait rage; ils ont vu des choses dont nous pouvons imager les
-reflets; nos cerveaux contraints par la trop usante répétition des
-contours du quotidien les évite, et pourtant, quelque chose se fixe en
-lui. Personne n'acceptera aucune conclusion avant que moins d'un
-millier de grain de sable n'ait coulé sur le sol et qu'un millier
-d'arguments n'ait glissé sur les heures sacrées de la discussion.
+Vérité, le débat fait rage; ces hôtes ont vu des choses dont nous
+pouvons imaginer les reflets; nos cerveaux contraints par la trop
+usante répétition des contours du quotidien les évite, et pourtant,
+quelque chose se fixe en lui. Personne n'acceptera aucune conclusion
+avant que moins d'un millier de grain de sable n'ait coulé sur le sol
+et qu'un millier d'arguments n'ait glissé sur les heures sacrées de la
+discussion.
 
 Quand l'heure devient trop tardive, s'ils sont repus ou simplement
 trop à l'aise, le cœur invite ses hôtes à s'endormir; par politesse,
@@ -60,14 +61,15 @@ frénétique prévaut moins par leurs couleurs fauves, leurs teintes
 pucelles et leurs silhouettes pythiques que par les ombres que leur
 feu dessine sur les courbures d'un palais de marbre. Les motifs, les
 icônes et autres runes antiques qui les recouvrent font référence aux
-légendes sanguinaires. Ce sont celles-ci que vont conter les causes se
-rapportant aux effets mythiques, que les raisons les plus
-intelligibles et les sentiments les plus nobles qui y sont peints dans
-les couleurs inouies qui ceignent des murs invisibles auront à nous
-offrir. Le palais comportant de telles chambres est bâti sur la terre
-selon un plan géométrique secret que la rigueur de l'esprit imagine,
-pour que la vérité que l'on puisse en extraire soit faite de
-l'authenticité la plus pure.
+légendes sanguinaires. Ce sont celles-ci que vont conter les causes
+aux effets mythiques, que les raisons les plus intelligibles et les
+sentiments les plus nobles qui y sont peints dans les couleurs inouies
+qui ceignent des murs invisibles nous offriront. 
+
+Le palais comportant de telles chambres est bâti sur la terre selon un
+plan géométrique secret que la rigueur de l'esprit imagine, pour que
+la vérité que l'on puisse en extraire soit faite de l'authenticité la
+plus pure.
 
 <span class="image fit"><img src="images/pic02.jpg"></span>
 
