@@ -1,12 +1,13 @@
-rm tmp/*
+#!/usr/bin/env bash
 
 cd ../blabla/0
-files=( * )
+files=(*.md)
 
 for i in {0..3}; do
+    echo ${files[$i]}
     pandoc -s -S -f markdown -t html ${files[$i]}  --template=../../pandoc/miniTemplate.html -o ../../pandoc/tmp/$i.html\
            --variable id=$i\
-           --variable title=${files[$i]}
+           --variable title=${files[$i]} 
 
     if [ $i -eq 0 ]
     then
@@ -23,9 +24,9 @@ for i in {0..3}; do
         strP="<a href=\"#${cc}\">previous</a>"
         sed -i "2 a ${strP}" ../../pandoc/tmp/$i.html
         sed -i "$ i ${strN}" ../../pandoc/tmp/$i.html
-    fi        
+    fi
 
-    
+
 done
 
 
