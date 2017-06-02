@@ -73,3 +73,12 @@ Mais n'est-ce pas un peu étrange?
 
 Tais-toi, mon bon Samarcande. Même si tu as raison, je ne veux pas
 t'entendre. 
+
+
+----
+
+
+TU voix, le problème, c'est de trop parler.
+
+L'ignorance n'est là que pour être dite, mais le silence détruit
+énormément d'erreurs. 
