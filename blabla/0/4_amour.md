@@ -30,8 +30,8 @@ vient de nulle part. C'est l'énergie du désespoir, et elle est très froide. E
 on ajoute une deuxième fois qu'elle ne va nulle part, pour vérifier que l'on a
 bien compris et suggérer que ce n'est pas une bonne idée de passer par là. On a
 entendu que c'est une annonce de la mort. La force qui s'en échappe toubillone
-au rythme des feuilles qui tombent et font des tombes. On peut le croire, oui, c'est possible. Mais,
-souvent, le froid empêche de croire.
+au rythme des feuilles qui tombent et font des tombes. On peut le croire, oui,
+c'est possible. Mais, souvent, le froid empêche de croire.
 
 ////
 

@@ -3,4 +3,5 @@
 cd pandoc
 firefox site/index.html &
 sleep 1
-watch 'bash script.sh' -n 5
+http-server &
+watch -n 10 'bash script.sh'

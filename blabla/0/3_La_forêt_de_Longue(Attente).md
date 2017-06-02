@@ -1,4 +1,29 @@
 
+Quelque soit le point du globe depuis lequel l'on partira, la distance parcourue
+avant d'atteindre ses reflets ambrés sera la même pour tous. Cette distance se
+calcule selon le carré de la troisième racine d'amour présent dans le coeur de
+qui entreprend un tel voyage. Mais, voyez-vous, pour nombre d'entre nous, cette
+racine est bien trop profonde.
+
+Heureusement, quelqu'un a fait ce long voyage. Cela a dû être un sacré voyage,
+pensez-vous peut-être déjà, ou aimeriez-vous entendre un de vos compagnons moins
+timides le dire, ce qui prouverait que la projection du carré de votre racine
+d'amour n'est pas si petite. Un homme a fait ce voyage particulier, mais quel
+homme, et surtout, mes enfants, quel voyage? C'est le voyage dont les histoires
+ne sont pas belles à raconter, hélas, et dont le cœur rechigne à l'exvocation.
+On dit que les voyages forment la jeunesse, mais pas celle-ci.
+
+Son voyage lui a appris à se méfier. Son cœur est maintenant habité
+par un Inconnu qui y a élu domicile. Il règne, d'une main de fer sur
+son âme, qui lui impose le silence. Pourtant, Anoy, c'est son nom, est
+dorénavant sur le bon chemin.
+
+Tout le monde lui indique la même direction, et il est peu probable
+que tous se trompent.
+
+////
+
+
 " Toute ma vie j'ai souhaité me libérer d'un maître qui n'existait pas, et
 maintenant je ne souhaite qu'une seule chose: avoir ce fantôme pour maître. "
 
