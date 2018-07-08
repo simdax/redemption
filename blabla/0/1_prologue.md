@@ -9,16 +9,20 @@ Avant de leur servir les plus saisonniers, les plus parfumés des
 entremets, les poissons les plus frétillants, les viandes les plus
 sucrés, les boissons les plus sanguines et les vins les plus
 enivrants, un cœur digne de ce nom lit une sélection de poèmes rimant
-par paires, sonnant par tierces et enrichi de toutes les
+par paires. Ces poemes peuvent etre sonnant par tierces et enrichi de toutes les
 classes d'homothéleutes existant entre le néant et le dernier
-des nombres. <!-- trouvés par l'homme *deductio et inductio*. -->
+des nombres. Ces poemes n'attisent pas l'ennui, et c'est bien malgre moi que je ne puis
+en transcrire le cristal de leurs angles, les voix casses dans leur sanglot
+et les esprits s'en arrachant contre les griffes de leurs rimes trouvés par l'homme
+superieur, deductif et inductif.
 
 Ainsi débute toute histoire. Le cœur joyeux, battant par lui-même ou, mieux,
 par l'intermédiaire d'un hôte qu'il aura valorisé en vantant
-son teint de biche ou son épée d'acier, scande au rythme de
+son teint de biche ou son épée d'acier, l'hote supreme scande au rythme de
 musiques vibrant dans des rapports inférieurs à cinq et aux sons de
 voyelles rares et précieuses les délices de l'intelligence et de la
-conversation. Maintenant que le repas est commencé, il ne
+conversation. Il attire les yeux des dames sur la beaute, il aiguise l'amour des hommes
+pour le bon. Maintenant que le repas est commencé, il ne
 s'interrompra pas avant qu'il n'ait exposé les plus profondes
 observations faites par lui dans la journée, dans la nuit et dans la matinée,
 éveillant l'intérêt de tous, et avant qu'il n'ait tiré l'intégralité des
@@ -27,7 +31,8 @@ la familiarité que chacun possède avec les différentes logiques
 réelles et imaginaires.
 
 Le débat qui s'en suivra n'évitera aucune règle, des plus arbitraires aux plus
-classiques. Il ne faudra pas user du 'é' après le 'i', comme aux temps antiques
+classiques, celebres par les anciens connus de tous.
+Il ne faudra pas user du 'é' après le 'i', comme aux temps antiques
 de l'harmonie vocalique. Il ne faudra pas prononcer la première consonne du
 prénom du dernier homme arrivé dans l'assemblée avant la dernière voyelle du nom
 de la première femme qui en sera partie. Il ne faudra pas prendre la parole

@@ -1,6 +1,3 @@
-
-____
-
 La forêt de Longue(Attente) est située avant la côte, avant la mer de
 Sucre, dont le port principal d'Ambre(Jour), nommé Amour(Toute),
 conduisent les Héberlués, les Drôles déçus de notre monde, ou à bout

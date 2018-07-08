@@ -9,7 +9,7 @@ profonde qu'une mer. Son courant est puissant, sa canopée brumeuse. Nul n'est
 besoin de carte pour l'atteindre: cette cité est visible des plus lointaines
 collines qui bordent notre Monde. C'est elle qui ambroie le ciel avant que les
 étoiles ne se lèvent, et c'est elle qui doroit les pluies avec lesquels se
-nourrissent nos blés avides de tendresse. C'est elle qui ploient nos Dieux quand
+nourrissent nos blés avides de tendresse et de baisers. C'est elle qui ploient nos Dieux quand
 ces derniers, pleins de tristesse, hésitent à punir les populations infâmes qui
 habitent notre Monde.
 
@@ -28,7 +28,7 @@ Comme une danseuse déjoue sans qu'on ne le voit les regards jaloux de ses amant
 par le jeu de ses jambes, le visiteur apercevant au loin Ambre(jour) ne cesse de
 se demander comment ont pu s'élever ces murailles élégantes, ces tours
 autoritaires, ces portiques pointus et ces toits les plus protecteurs parmi les
-contrées les plus inconnues, sans qu'aucune volonté, ni humaine ni païenne, ni
+contrées les plus inconnues, sans qu'aucune volonté, ni humaine ni païenne, n'y
 appliquât aucun arbitre.
 
 Le peuple d'Ambre(jour) est fait d'inconnus. Son bois, ses échoppes, ses

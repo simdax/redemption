@@ -3,7 +3,7 @@ Quelque soit le point du globe depuis lequel l'on partira, la distance parcourue
 avant d'atteindre ses reflets ambrés sera la même pour tous. Cette distance se
 calcule selon le carré de la troisième racine d'amour présent dans le coeur de
 qui entreprend un tel voyage. Mais, voyez-vous, pour nombre d'entre nous, cette
-racine est bien trop profonde.
+racine est bien profonde.
 
 Heureusement, quelqu'un a fait ce long voyage. Cela a dû être un sacré voyage,
 pensez-vous peut-être déjà, ou aimeriez-vous entendre un de vos compagnons moins
